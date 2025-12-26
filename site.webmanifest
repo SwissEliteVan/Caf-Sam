@@ -1,0 +1,20 @@
+{
+  "name": "Café Samsara",
+  "short_name": "Café Samsara",
+  "description": "Tu oasis tropical en Zipolite. Café de especialidad, desayunos artesanales y el mejor brunch frente al Pacífico.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#2d5a47",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "lang": "es-MX",
+  "orientation": "portrait-primary",
+  "categories": ["food", "lifestyle"]
+}

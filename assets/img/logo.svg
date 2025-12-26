@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" role="img" aria-label="Café Samsara Logo">
+  <title>Café Samsara</title>
+  <!-- Coffee cup icon -->
+  <g fill="#2d5a47">
+    <!-- Cup body -->
+    <path d="M10 15h30c0 0 0 25-15 35-15-10-15-35-15-35z"/>
+    <!-- Cup handle -->
+    <path d="M40 20c8 0 12 5 12 12s-4 12-12 12" fill="none" stroke="#2d5a47" stroke-width="3"/>
+    <!-- Steam -->
+    <path d="M18 5c0-3 4-5 4-2s-4 5-4 2" fill="none" stroke="#2d5a47" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M25 3c0-3 4-5 4-2s-4 5-4 2" fill="none" stroke="#2d5a47" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M32 5c0-3 4-5 4-2s-4 5-4 2" fill="none" stroke="#2d5a47" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Leaf decoration -->
+    <ellipse cx="25" cy="32" rx="8" ry="4" fill="#3d7a5f" transform="rotate(-30 25 32)"/>
+  </g>
+  <!-- Text -->
+  <text x="60" y="32" font-family="ui-serif, Georgia, serif" font-size="22" font-weight="600" fill="#2d5a47">Café</text>
+  <text x="60" y="52" font-family="ui-serif, Georgia, serif" font-size="22" font-weight="600" fill="#2d5a47">Samsara</text>
+</svg>
