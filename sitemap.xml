@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Homepage -->
   <url>
-    <loc>https://cafesamsara.example/</loc>
+    <loc>https://cafesamsara.com.mx/</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -10,42 +10,42 @@
 
   <!-- Main Pages -->
   <url>
-    <loc>https://cafesamsara.example/menu.html</loc>
+    <loc>https://cafesamsara.com.mx/menu.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://cafesamsara.example/galeria.html</loc>
+    <loc>https://cafesamsara.com.mx/galeria.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://cafesamsara.example/eventos.html</loc>
+    <loc>https://cafesamsara.com.mx/eventos.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://cafesamsara.example/sobre-nosotros.html</loc>
+    <loc>https://cafesamsara.com.mx/sobre-nosotros.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://cafesamsara.example/ubicacion.html</loc>
+    <loc>https://cafesamsara.com.mx/ubicacion.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://cafesamsara.example/contacto.html</loc>
+    <loc>https://cafesamsara.com.mx/contacto.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -53,14 +53,14 @@
 
   <!-- Blog -->
   <url>
-    <loc>https://cafesamsara.example/blog.html</loc>
+    <loc>https://cafesamsara.com.mx/blog.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://cafesamsara.example/articulo.html</loc>
+    <loc>https://cafesamsara.com.mx/articulo.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -68,7 +68,7 @@
 
   <!-- FAQ -->
   <url>
-    <loc>https://cafesamsara.example/faq.html</loc>
+    <loc>https://cafesamsara.com.mx/faq.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -76,21 +76,21 @@
 
   <!-- Legal Pages -->
   <url>
-    <loc>https://cafesamsara.example/aviso-de-privacidad.html</loc>
+    <loc>https://cafesamsara.com.mx/aviso-de-privacidad.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
-    <loc>https://cafesamsara.example/terminos.html</loc>
+    <loc>https://cafesamsara.com.mx/terminos.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
 
   <url>
-    <loc>https://cafesamsara.example/mapa-del-sitio.html</loc>
+    <loc>https://cafesamsara.com.mx/mapa-del-sitio.html</loc>
     <lastmod>2025-12-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
