@@ -1,0 +1,9 @@
+# Security Contact Information
+# https://securitytxt.org/
+
+Contact: mailto:hola@cafesamsara.example
+Preferred-Languages: es, en
+Canonical: https://cafesamsara.example/.well-known/security.txt
+
+# If you find a security vulnerability, please report it responsibly.
+# We appreciate your help in keeping our visitors safe.

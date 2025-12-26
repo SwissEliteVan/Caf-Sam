@@ -1,0 +1,12 @@
+# Robots.txt for Café Samsara
+# https://cafesamsara.example/
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cafesamsara.example/sitemap.xml
+
+# Disallow sensitive files
+Disallow: /.htaccess
+Disallow: /security.txt

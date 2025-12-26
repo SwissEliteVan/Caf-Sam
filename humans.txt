@@ -1,0 +1,30 @@
+/* TEAM */
+Café Samsara
+Site: https://cafesamsara.example
+Location: Zipolite, Oaxaca, México
+
+/* SITE */
+Last update: 2025-12-26
+Language: Spanish (es-MX), English (micro-content)
+Standards: HTML5, CSS3, JavaScript ES6+
+Doctype: HTML5
+
+/* TECHNOLOGY */
+HTML: Semantic HTML5
+CSS: Custom CSS with CSS Variables (Design Tokens)
+JavaScript: Vanilla JS (No frameworks)
+Fonts: System fonts (system-ui, ui-serif)
+Icons: Inline SVG
+Hosting: Hostinger
+Server: Apache
+
+/* DESIGN PRINCIPLES */
+- Performance first (Core Web Vitals optimized)
+- Accessibility (WCAG 2.2 compliant)
+- Mobile-first responsive design
+- Tropical chic premium aesthetic
+- No external dependencies
+
+/* CREDITS */
+Coffee: Productores de Oaxaca
+Inspiration: The Pacific Ocean & Zipolite vibes
